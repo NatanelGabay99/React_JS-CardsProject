@@ -6,10 +6,8 @@ const apiUrl = "https://monkfish-app-z9uza.ondigitalocean.app/bcard2";
 export const login = async (user) => {
   try {
     const { data } = await axios.post(`${apiUrl}/users/login`, user);
-    console.log(data);
     return data;
   } catch (error) {
-    console.log(error);
     return Promise.reject(error.message);
   }
 };

@@ -12,7 +12,6 @@ export default function CardsPage() {
   const { value, handleGetCards, handleDeleteCard, handleLikeCard } =
     useCards();
   const { user } = useCurrentUser();
-  console.log(user);
 
   const { filterCards, error, isLoading } = value;
 

@@ -54,7 +54,6 @@ export default function MyForm2() {
         component={"form"}
         onSubmit={(e) => {
           e.preventDefault();
-          console.log("form submitted");
         }}
       >
         <Typography>My Form</Typography>

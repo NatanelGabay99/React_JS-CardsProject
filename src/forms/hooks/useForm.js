@@ -41,7 +41,6 @@ const useForm = (initialForm, schema, handleSubmit) => {
   const handleChangeCheckBox = useCallback((e) => {
     let value = e.target.checked;
     let name = e.target.name;
-    console.log(name, value);
     setData((prev) => ({ ...prev, [name]: value }));
   }, []);
 

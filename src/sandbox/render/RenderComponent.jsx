@@ -2,14 +2,12 @@ import React, { useCallback, useMemo, useState } from "react";
 import MyButton from "./MyButton";
 
 export default function RenderComponent() {
-  console.log("The components is rendered");
 
   const [value, setValue] = useState(0);
   const [value2, setValue2] = useState(0);
 
 
   const doSomethingLong = useMemo(() => {
-    console.log("The long function is render");
     return 5 * value2;
   }, [value2]);
 

@@ -18,12 +18,10 @@ export default memo(function CountryDetails({ countryName }) {
           setCountry(value);
         })
         .catch((err) => {
-          console.log(err);
         });
     }
   }, [countryName]);
 
-  console.log("this components rendered " + countryName);
   if (!country) return null;
   return (
     <Box display="flex" sx={{ justifyContent: "space-between" }}>
