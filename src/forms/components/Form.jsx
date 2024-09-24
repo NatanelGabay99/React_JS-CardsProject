@@ -57,7 +57,7 @@ const Form = ({
           <FormButton
             node="Submit"
             onClick={onSubmit}
-            disabled={validateForm()}
+            disabled={!!validateForm()}
             size="large"
           />
         </Grid>

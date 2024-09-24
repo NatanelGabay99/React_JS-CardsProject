@@ -38,8 +38,8 @@ export default function AboutPage() {
             <p>
               The application allows you to add new cards, edit existing ones,
               and delete cards that are no longer needed or in use. You can
-              customize your own business cards and view them afterwards in the cards page when
-              submiting them. In addition, you can mark cards as
+              customize your own business cards and view them afterwards in the
+              cards page when submiting them. In addition, you can mark cards as
               favorites for quick access and unmark them.
             </p>
             <p>
@@ -51,10 +51,11 @@ export default function AboutPage() {
               application.
             </p>
             <p>
-              To access certain features like managing 'favorites' and 'my-cards', you need to be
-              logged in. Use the login form to enter your credentials. Once
-              logged in, you can log out at any time by clicking the "Logout"
-              button in the avatar icon.
+              To access certain features like managing 'favorites', you need to
+              be logged in. If you want to access 'my-cards' feature, you need to
+              register as a business user. Use the login form to enter your
+              credentials. Once logged in, you can log out at any time by
+              clicking the "Logout" button in the avatar icon.
             </p>
             <p>
               Whether you have a small or large collection of cards, the Card
@@ -130,8 +131,8 @@ export default function AboutPage() {
               Once you have registered and become an active user on the site,
               you will be able to access other features like adding cards,
               editing cards, deleting cards, and marking cards as favorites. It
-              is important you sign up as a Business user, in order to access
-              these features.
+              is important you sign up as a Business user in order to access the 'my-cards' feature,
+             and the other features as mentioned.
             </p>
           </Typography>
 

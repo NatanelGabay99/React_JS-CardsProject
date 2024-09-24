@@ -129,7 +129,7 @@ export default function SignupForm({
         sm={6}
       />
       <Input
-        name="house number"
+        name="houseNumber"
         label="house number"
         type="number"
         error={errors.houseNumber}
