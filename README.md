@@ -31,7 +31,7 @@ JWT: jwt-decode
 
 ## Installation && Setup: 
 
-Clone the repository in VS code: [clone url]
+Clone the repository in VS code: [https://github.com/NatanelGabay99/React_JS-CardsProject.git]
 Install dependecies: npm install / npm i
 Start the development: npm run dev (click on local host link to view app in browser: [localhost:5173](http://localhost:5173/))
 
