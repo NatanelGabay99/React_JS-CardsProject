@@ -53,7 +53,7 @@ Registered Users: All the above user features except creating and managing owned
 
 Business Users: All the above user features, including creating and managing owned business cards, editing and deleting owned business cards
 
-Admin Users: Al registered features, Manage all business cards, view SandBox link in Navbar
+Admin Users: All registered features, manage all business cards, view SandBox link in Navbar
 
 In addition, clicking on the Logo's in the left side of the navbar will navigate the user to the cards page from whichever page the user is currently visiting.
 
