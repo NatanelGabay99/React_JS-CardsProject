@@ -49,9 +49,9 @@ Vanilla JavaScript (JS)
 
 Unregistered Users: View business cards.
 
-Registered Users: All the above user features, Like business cards, view liked business cards.
+Registered Users: All the above user features except creating and managing owned business cards.
 
-Business Users: All the above user features, Create and manage owned business cards, edit and delete owned business cards
+Business Users: All the above user features, including creating and managing owned business cards, editing and deleting owned business cards
 
 Admin Users: Al registered features, Manage all business cards, view SandBox link in Navbar
 
