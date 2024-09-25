@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Project name:
-react_js-cardsproject
+React_JS-CardsProject
 
 ## Library & FrameWork:
 
@@ -17,8 +17,9 @@ FrameWork: React.js
 
 ## Available Scripts:
 
-In the project directory, you can run:
+In the project directory, you can run: 
 ### `npm run dev` ###
+
 it runs the app in the development mode.\
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
@@ -26,11 +27,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Technologies used in App:
 
-Frontend: React, Material UI, React Router
-Build Tool: Vite,
-Validation: Joi,
-API: Axios,
-JWT: jwt-decode
+Frontend: React, Material UI, React Router.
+Build Tool: Vite.
+Validation: Joi.
+API: Axios.
+JWT: jwt-decode.
 
 ## Installation && Setup: 
 
@@ -42,7 +43,7 @@ Start the development: npm run dev (click on local host link to view app in brow
 ## Main Files:
 
 React-JavaScript (JSX)
-Vanilla JvaScript (JS)
+Vanilla JavaScript (JS)
 
 ## Usage of the App:
 
