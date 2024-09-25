@@ -39,7 +39,7 @@ export default function AboutPage() {
               The application allows you to add new cards, edit existing ones,
               and delete cards that are no longer needed or in use. You can
               customize your own business cards and view them afterwards in the
-              cards page when submiting them. In addition, you can mark cards as
+              Cards page when submiting them. In addition, you can mark cards as
               favorites for quick access and unmark them.
             </p>
             <p>
@@ -54,12 +54,12 @@ export default function AboutPage() {
               To access certain features like managing 'favorites', you need to
               be logged in. If you want to access 'my-cards' feature, you need to
               register as a business user. Use the login form to enter your
-              credentials. Once logged in, you can log out at any time by
-              clicking the "Logout" button in the avatar icon.
+              credentials. Once logged in, you can log out at any time by simply
+              clicking the Logout button in the avatar icon on the right side of the navbar.
             </p>
             <p>
-              Whether you have a small or large collection of cards, the Card
-              Management System can help you stay organized and keep track of
+              Whether you have a small or large collection of cards, the card
+              management system can help you stay organized and keep track of
               all your cards in one place. Try it out today and see how it can
               simplify your card management tasks!
             </p>
@@ -131,8 +131,7 @@ export default function AboutPage() {
               Once you have registered and become an active user on the site,
               you will be able to access other features like adding cards,
               editing cards, deleting cards, and marking cards as favorites. It
-              is important you sign up as a Business user in order to access the 'my-cards' feature,
-             and the other features as mentioned.
+              is important you sign up as a business user in order to access these features.
             </p>
           </Typography>
 
@@ -185,12 +184,12 @@ export default function AboutPage() {
             sx={{ fontSize: "19px", marginBottom: "0.5em" }}
           >
             <p>
-              To edit an existing card, go to the Cards page in the navigation
+              To edit an existing card, go to the My Cards page in the navigation
               bar and locate the card you want to edit. Remember, you may only
-              edit cards that only you have craeted. Click on the "Edit" button
+              edit cards that only you have created. Click on the "Edit" button
               associated with that card. This will open a form pre-filled with
               the card's current details. Make the necessary changes and click
-              "Save" to update the card.
+              "Submit" to save and update those changes.
             </p>
           </Typography>
 
@@ -214,7 +213,7 @@ export default function AboutPage() {
             sx={{ fontSize: "19px", marginBottom: "0.5em" }}
           >
             <p>
-              If you need to delete a card, find the card on the Cards page and
+              If you want to delete a card, find the card on the My Cards page and
               click the "Delete" button. You will be prompted to confirm the
               deletion. Once confirmed, that card will be permanently removed
               from your collection.
@@ -243,7 +242,7 @@ export default function AboutPage() {
             <p>
               You can mark cards as favorites for quick access. To do this,
               click on the "Favorite" icon on the card. Favorited cards can be
-              easily accessed from the "Fav Cards" section in the navigation
+              easily accessed from the "Favorite Cards" section in the navigation
               bar.
             </p>
           </Typography>
@@ -271,8 +270,8 @@ export default function AboutPage() {
             <p>
               To access certain features like managing favorites or your cards,
               you need to be logged in. Use the login form to enter your
-              credentials. Once logged in, you can log out at any time by
-              clicking the "Logout" button on the Avatar icon.
+              credentials. Once logged in, you can log out at any time by 
+              clicking the Logout button on the Avatar icon.
             </p>
           </Typography>
 
@@ -296,9 +295,9 @@ export default function AboutPage() {
             sx={{ fontSize: "19px", marginBottom: "0.5em" }}
           >
             <p>
-              Use the navigation bar at the top of the page to move between
+              Use the navigation bar at the top and bottom of the page to move between
               different sections of the application. The navigation bar includes
-              links to the Home page, Cards page, and other important sections.
+              links to the Home page, About page, and other important sections.
             </p>
           </Typography>
         </Grid>
